@@ -4,16 +4,20 @@ project:
 website:
   title: "Clark Qian"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: projects.qmd
+        text: Projects
 
 format:
   html:
-    theme: cosmo
+    theme: superhero
     css: styles.css
     toc: true
 
 editor: visual
+
+execute:
+  freeze: auto
 

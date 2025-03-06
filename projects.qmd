@@ -1,0 +1,10 @@
+---
+title: "Projects"
+listing:
+  type: table
+  contents:
+    - text: "Project 1"
+      image: project/spot.jpg
+      href: https://github.com/Pafuuuu/Music_Recommendation/tree/main
+
+---
