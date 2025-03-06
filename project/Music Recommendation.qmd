@@ -1,0 +1,21 @@
+---
+title: "Music Recommendation"
+author: Clark Qian
+date: 3/6/2025
+image: spot.jpg
+---
+![](spot.jpg)
+
+In this project I use cosine similarity to build a recommendation system to find songs of similar genres. 
+
+[CLICK HERE TO VIEW THE PROJECT](https://github.com/Pafuuuu/Music_Recommendation/blob/main/Music%20Recommendation.ipynb)
+
+
+
+
+
+
+
+
+
+

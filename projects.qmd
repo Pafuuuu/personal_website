@@ -1,9 +1,7 @@
 ---
 title: "Projects"
-listing:
-  type: grid
-  contents:
-    - link: https://github.com/Pafuuuu/Music_Recommendation
-    - image: project/spot.jpg
 
+listing: 
+  contents: 
+    - "project/*.qmd"
 ---

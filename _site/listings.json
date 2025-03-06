@@ -1,6 +1,10 @@
 [
   {
     "listing": "/projects.html",
-    "items": []
+    "items": [
+      "/project/ASA2023.html",
+      "/project/Customer Segmentation.html",
+      "/project/Music Recommendation.html"
+    ]
   }
 ]

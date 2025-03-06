@@ -1,0 +1,11 @@
+---
+title: "Customer Segmentation"
+author: Clark Qian
+date: 3/6/2025
+image: seg.jpg
+---
+![](seg.png)
+
+In this project I unsupervised learning technique to investigate user purchasing behavior from a grocery company. 
+
+[CLICK HERE TO VIEW THE PROJECT](https://github.com/Pafuuuu/Customer_Segmentation/blob/main/Customer%20Segmentation.ipynb)

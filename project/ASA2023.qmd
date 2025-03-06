@@ -1,0 +1,14 @@
+---
+title: "2023 ASA DataFest"
+author: Clark Qian
+date: 3/6/2025
+image: ASA2023.jpg
+---
+![](ASA2023.jpg)
+
+This is our award-winning project, our team employed the marketing funnel to analyze the user churn rate for a legal consulting platform. 
+
+[CLICK HERE TO VIEW THE PROJECT](https://github.com/Pafuuuu/ASA-DATAFEST-2023/tree/main)
+
+
+
