@@ -1,7 +1,11 @@
 ---
-title: "Projects"
+title: "PROJECTS"
 
 listing: 
   contents: 
     - "project/*.qmd"
 ---
+
+### This page contains some projects I did during my undergraduate study. Please feell free to take a look!
+
+---------------------------

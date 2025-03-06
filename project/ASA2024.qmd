@@ -1,0 +1,12 @@
+---
+title: "2024 ASA DataFest"
+author: Clark Qian
+date: 3/6/2025
+image: asa2024.jpg
+---
+![](asa2024.jpg) 
+
+
+This is our award-winning project, our team tracked user footprint to provide insights in user learning patterns for an statistics e-textbook. 
+
+[CLICK HERE TO VIEW THE PROJECT](https://github.com/Pafuuuu/ASA-DATAFEST-2024/tree/main)

@@ -4,7 +4,7 @@ author: Clark Qian
 date: 3/6/2025
 image: seg.jpg
 ---
-![](seg.png)
+![](seg.jpg)
 
 In this project I unsupervised learning technique to investigate user purchasing behavior from a grocery company. 
 

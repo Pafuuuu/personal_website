@@ -3,7 +3,9 @@
     "listing": "/projects.html",
     "items": [
       "/project/ASA2023.html",
+      "/project/ASA2024.html",
       "/project/Customer Segmentation.html",
+      "/project/DeliveryDash.html",
       "/project/Music Recommendation.html"
     ]
   }

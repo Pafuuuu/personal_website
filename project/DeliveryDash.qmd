@@ -1,0 +1,11 @@
+---
+title: "Delivery App Dashboard"
+author: Clark Qian
+date: 3/6/2025
+image: dash.jpg
+---
+![](dash.jpg)
+
+This is a sales dashboard of two delivery apps in China featuring revenue, advertisement order distribution and so on.
+
+[CLICK HERE TO VIEW THE PROJECT](https://github.com/Pafuuuu/BI-DASHBOARD/blob/main/Delivery%20App%20Sales%20Dashboard.pdf)
