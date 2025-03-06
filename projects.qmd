@@ -1,10 +1,9 @@
 ---
 title: "Projects"
 listing:
-  type: table
+  type: grid
   contents:
-    - text: "Project 1"
-      image: project/spot.jpg
-      href: https://github.com/Pafuuuu/Music_Recommendation/tree/main
+    - link: https://github.com/Pafuuuu/Music_Recommendation
+    - image: project/spot.jpg
 
 ---

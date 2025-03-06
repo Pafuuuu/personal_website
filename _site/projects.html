@@ -70,9 +70,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-text','listing-image','listing-href',{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-link','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-text","listing-image","listing-href"],
+      searchColumns: ["listing-link","listing-image"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -159,58 +159,51 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-text" data-direction="asc">
-          text
-        </option>
-         <option value="listing-image" data-direction="asc">
-        </option>
-         <option value="listing-href" data-direction="asc">
-          href
-        </option>
-     </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0">
+<a href="" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+
+<table class="card-other-values">
+<tbody><tr>
+<td>
+link
+</td>
+<td class="link">
+https://github.com/Pafuuuu/Music_Recommendation
+</td>
+</tr>
+
+</tbody></table>
 </div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1">
+<a href="" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="project/spot.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
 
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-<th>
-<a class="sort" data-sort="listing-text" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">text</a>
-</th>
-<th>
-<a class="sort" data-sort="listing-image" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;"> </a>
-</th>
-<th>
-<a class="sort" data-sort="listing-href" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">href</a>
-</th>
-</tr>
-</thead>
-<tbody class="list">
-<tr data-index="0">
+<table class="card-other-values">
+<tbody><tr>
 <td>
-<span class="listing-text">Project 1</span>
+link
 </td>
-<td>
-<span class="listing-image"><img src="project/spot.jpg" style="height: 40px;"></span>
-</td>
-<td>
-<span class="listing-href">https://github.com/Pafuuuu/Music_Recommendation/tree/main</span>
+<td class="link">
 </td>
 </tr>
-</tbody>
 
-</table>
+</tbody></table>
+</div>
+</div>
+</a>
+</div>
+</div>
 <div class="listing-no-matching d-none">
 No matching items
 </div>
