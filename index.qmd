@@ -1,5 +1,5 @@
 ---
-title: "Clark Qian"
+title: "CLARK QIAN"
 about:
   template: solana
   image: selfie.jpg
@@ -12,21 +12,61 @@ about:
       href: https://github.com/Pafuuuu
 ---
 
+Xuanyao (Clark) Qian is an enthusiastic data scientist currently pursuing a Bachelor's degree in Statistics and Data Science & Psychology from the University of California, Los Angeles (expected June 2025). 
 
-Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+Proficient in Python, R, SQL, and Tableau, Clark loves gleaning insights from tech, education, and economic data to make a meaningful impact. 
 
-## Education
+When not crunching numbers or creating visualizations, Clark enjoys music, movies, cooking, and embracing life to the fullest. 
 
-University of California, San Diego | San Diego, CA
-PhD in Mathematics | Sept 2011 - June 2015
-
-Macalester College | St. Paul, MN
-B.A in Economics | Sept 2007 - June 2011
-
-## Experience
-
-Wengo Analytics | Head Data Scientist | April 2018 - present
-
-GeoScynce | Chief Analyst | Spet 2012 - April 2018
 
 ### Click here to view my [resume](/Xuanyao_Qian_Resume.pdf)
+
+# Education
+
+**University of California, Los Angeles (UCLA)** 
+
+Los Angeles, CA | B.S in Statistics & B.A in Psychology 
+
+Sep 2021 - Jun 2025
+
+# Internship Experience
+
+-------------------------------------------
+
+**Zhangjiagang Department of Statistics** 
+
+| Data Analytics Intern | Jul 2023 -  Sep 2023
+
+--------------------------------------------
+
+
+**Credera**
+
+| Consulting and Analytics Intern | Jun 2022 - Aug 2022
+
+--------------------------------------------
+
+# Research Experience
+
+-------------------------------------------
+
+**Perceptual Processing & Computational Lab at UCLA** 
+
+PI: Zili Liu | Research Assistant | Feb 2024 - Present
+
+------------------------------------------
+
+**Marco Iacoboni Lab at UCLA** 
+
+PI: Marco Iacoboni | Research Assistant | Feb 2024 - Sep 2024
+
+------------------------------------------
+
+**UCLA Culture and Race/Ethnicity in Youth Mental Health Lab** 
+
+PI: Anna Lau | Research Assistant | Dec 2022 - Jul 2023
+
+------------------------------------------
+
+# Projects
+[Click here to see some projects I did](projects.qmd)

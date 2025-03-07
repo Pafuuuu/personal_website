@@ -4,6 +4,7 @@ title: "PROJECTS"
 listing: 
   contents: 
     - "project/*.qmd"
+  sort: "date desc"
 ---
 
 ### This page contains some projects I did during my undergraduate study. Please feell free to take a look!
